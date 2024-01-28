@@ -1,5 +1,6 @@
 Hello padmashri
 
+<<<<<<< HEAD
 
 
 hello reeya - m 
@@ -11,4 +12,12 @@ hello reeya - m
 =======
 3rd line : vardhaman
 >>>>>>> 8f01e83 (3rd commit - b)
+=======
+1st line
+
+
+3rd line : vardhaman
+
+4th line : kallol
+>>>>>>> div
 
